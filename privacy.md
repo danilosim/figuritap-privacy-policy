@@ -230,6 +230,7 @@ You may:
 - Disable push notifications in your device settings.
 - Manage ad tracking and ad personalization through your device settings and Google privacy controls.
 - Cancel premium subscriptions through the Apple App Store or Google Play Store subscription settings.
+- Request account and data deletion by following the steps in [FiguritApp Account and Data Deletion](./account-deletion.md).
 - Contact us to request access, correction, deletion, export, or other applicable privacy rights.
 
 ## 13. Changes to This Privacy Policy
@@ -241,3 +242,5 @@ We may update this Privacy Policy from time to time. If we make material changes
 For any question, request, or concern regarding this Privacy Policy or your personal information, contact:
 
 **daniloreitanoandrades@gmail.com**
+
+Account and data deletion requests can also be submitted using the steps in [FiguritApp Account and Data Deletion](./account-deletion.md).

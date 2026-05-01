@@ -230,6 +230,7 @@ Podés:
 - Desactivar notificaciones push desde la configuración de tu dispositivo.
 - Administrar el seguimiento publicitario y la personalización de anuncios desde la configuración de tu dispositivo y los controles de privacidad de Google.
 - Cancelar suscripciones premium desde la configuración de suscripciones de Apple App Store o Google Play Store.
+- Solicitar la eliminación de cuenta y datos siguiendo los pasos en [Eliminación de cuenta y datos de FiguritApp](./account-deletion.md).
 - Contactarnos para solicitar acceso, corrección, eliminación, exportación u otros derechos de privacidad aplicables.
 
 ## 13. Cambios a esta Política de Privacidad
@@ -241,3 +242,5 @@ Podemos actualizar esta Política de Privacidad ocasionalmente. Si hacemos cambi
 Para cualquier pregunta, solicitud o inquietud sobre esta Política de Privacidad o tu información personal, contactá a:
 
 **daniloreitanoandrades@gmail.com**
+
+Las solicitudes de eliminación de cuenta y datos también pueden enviarse siguiendo los pasos en [Eliminación de cuenta y datos de FiguritApp](./account-deletion.md).
