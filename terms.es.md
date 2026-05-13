@@ -59,4 +59,4 @@ Argentina. Cualquier disputa se resuelve en los tribunales de Ciudad Autónoma d
 
 ## 12. Contacto
 
-`legal@figuritapp.com.ar`
+`daniloreitanoandrades@gmail.com`
